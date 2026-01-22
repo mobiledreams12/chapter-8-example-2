@@ -1,7 +1,7 @@
 const request = require("supertest");
 const { app } = require("../index");
 
-describe("video streaming microservice", () => {
+describe("video streaming microservice test", () => {
 
     test("microservice can handle requests", async () => {
 
